@@ -1,0 +1,7 @@
+id=MEMP-Fix
+name=MIUI EU MiPush Fix
+version=v1.0
+versionCode=10
+author=yuan1 (github.com/yuan1)
+description=MIUI EU MiPush Fix China
+updateJson=https://raw.githubusercontent.com/yuan1/MIUI-EU-MiPush-Fix/master/update.json
